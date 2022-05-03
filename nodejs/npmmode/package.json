@@ -1,0 +1,16 @@
+{
+  "name": "bibek",
+  "version": "1.0.0",
+  "description": "heee",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bibek",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "validator": "^13.7.0"
+  }
+}
